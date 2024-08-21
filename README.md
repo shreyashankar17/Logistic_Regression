@@ -159,8 +159,11 @@ The dataset used for this project consists of input features that aim to predict
 #### Why Logistic Regression?
 Logistic regression was selected because it is a simple yet powerful algorithm that models the probability of a binary outcome based on one or more input features. It is particularly useful when the relationship between the dependent and independent variables is not strictly linear but can be expressed through a logistic function.
 
-Steps Followed in the Model Preparation
-Data Loading: The dataset was loaded into the environment using pandas, providing a structured format for analysis.
+### Steps Followed in the Model Preparation
+
+#### Data Loading: 
+
+The dataset was loaded into the environment using pandas, providing a structured format for analysis.
 
 #### Data Exploration:
 
